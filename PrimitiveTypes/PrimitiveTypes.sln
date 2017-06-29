@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PowerXY", "PowerXY\PowerXY.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReverseDigits", "ReverseDigits\ReverseDigits.vcxproj", "{C1FFF3AD-8881-43D5-86C0-C4D45A6E8461}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "palindrome_number", "palindrome_number\palindrome_number.vcxproj", "{331E4C97-B86B-4587-AC6F-18BABAFB70FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{C1FFF3AD-8881-43D5-86C0-C4D45A6E8461}.Release|x64.Build.0 = Release|x64
 		{C1FFF3AD-8881-43D5-86C0-C4D45A6E8461}.Release|x86.ActiveCfg = Release|Win32
 		{C1FFF3AD-8881-43D5-86C0-C4D45A6E8461}.Release|x86.Build.0 = Release|Win32
+		{331E4C97-B86B-4587-AC6F-18BABAFB70FF}.Debug|x64.ActiveCfg = Debug|x64
+		{331E4C97-B86B-4587-AC6F-18BABAFB70FF}.Debug|x64.Build.0 = Debug|x64
+		{331E4C97-B86B-4587-AC6F-18BABAFB70FF}.Debug|x86.ActiveCfg = Debug|Win32
+		{331E4C97-B86B-4587-AC6F-18BABAFB70FF}.Debug|x86.Build.0 = Debug|Win32
+		{331E4C97-B86B-4587-AC6F-18BABAFB70FF}.Release|x64.ActiveCfg = Release|x64
+		{331E4C97-B86B-4587-AC6F-18BABAFB70FF}.Release|x64.Build.0 = Release|x64
+		{331E4C97-B86B-4587-AC6F-18BABAFB70FF}.Release|x86.ActiveCfg = Release|Win32
+		{331E4C97-B86B-4587-AC6F-18BABAFB70FF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
